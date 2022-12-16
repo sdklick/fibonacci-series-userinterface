@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fibonacci-series-userinterface/static/css/main.41786c6b.css",
+    "main.js": "/fibonacci-series-userinterface/static/js/main.fbf82404.js",
+    "index.html": "/fibonacci-series-userinterface/index.html",
+    "main.41786c6b.css.map": "/fibonacci-series-userinterface/static/css/main.41786c6b.css.map",
+    "main.fbf82404.js.map": "/fibonacci-series-userinterface/static/js/main.fbf82404.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41786c6b.css",
+    "static/js/main.fbf82404.js"
+  ]
+}
